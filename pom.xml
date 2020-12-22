@@ -132,7 +132,7 @@
 		<servlet-jstl.version>1.2</servlet-jstl.version>
 		<slf4j.version>1.6.1</slf4j.version>
 		<solr.version>3.5.0</solr.version>
-		<spring.version>4.3.12.RELEASE</spring.version>
+		<spring.version>5.3.2</spring.version>
 		<uimafit.version>2.4.0</uimafit.version>
 		<uimaj.version>2.10.2</uimaj.version>
 		<timenorm.version>0.9.5</timenorm.version>
